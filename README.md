@@ -11,7 +11,7 @@ Este es un paquete de iconos inspirado en la estética original de Windows Phone
 
 ### Créditos
 
-Basado en el proyecto [Lawnicons](https://github.com/Lawnicons/Lawnicons) por Lawnchair Launcher Team.
+Basado en el proyecto [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) por Lawnchair Launcher Team.
 Licencia MIT. Este repositorio contiene solo los íconos y archivos necesarios para el funcionamiento del pack.
 
 ---

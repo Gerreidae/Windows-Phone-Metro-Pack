@@ -1,6 +1,6 @@
 # Windows-Phone-Metro-Pack
 
-Este es un paquete de iconos inspirado en la estética original de Windows Phone 8, diseñado para usarse con launchers compatibles con Lawnicons (especialmente con MetroPhoneLauncher).
+Este es un paquete de iconos inspirado en la estética original de Windows Phone 8, diseñado para usarse con launchers compatibles con Lawnicons (especialmente con [MetroPhoneLauncher](https://github.com/queuejw/MetroPhoneLauncher)).
 
 ### Características
 

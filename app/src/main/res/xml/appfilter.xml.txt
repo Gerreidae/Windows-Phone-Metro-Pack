@@ -1,0 +1,5 @@
+<resources>
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xboxone.smartglass.MainActivity}" drawable="com.microsoft.xboxone.smartglass"/>
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="com.google.android.apps.messaging"/>
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="com.google.android.dialer"/>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Windows-Phone-Metro-Pack"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Lawnicons.SplashScreen"
+        android:name=".LawniconsApplication">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Lawnicons.SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <!-- Lawnicons -->
+            <intent-filter>
+                <action android:name="app.lawnchair.icons.THEMED_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <!-- Lawnchair Legacy -->
+            <intent-filter>
+                <action android:name="ch.deletescape.lawnchair.ICONPACK" />
+                <category android:name="ch.deletescape.lawnchair.PICK_ICON" />
+            </intent-filter>
+
+            <!-- Nova Launcher -->
+            <intent-filter>
+                <action android:name="com.novalauncher.THEME" />
+                <category android:name="com.novalauncher.category.CUSTOM_ICON_PICKER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Icon pack declaration -->
+        <meta-data
+            android:name="com.android.launcher.icon_pack"
+            android:resource="@xml/appfilter" />
+
+    </application>
+
+</manifest>

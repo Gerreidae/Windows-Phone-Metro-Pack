@@ -1,0 +1,3 @@
+<resources>
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xboxone.smartglass.MainActivity}" drawable="com.microsoft.xboxone.smartglass"/>
+</resources>

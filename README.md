@@ -1,19 +1,21 @@
 # Windows-Phone-Metro-Pack
 
-Este es un paquete de iconos inspirado en la estética original de Windows Phone 8, diseñado para usarse con launchers compatibles con Lawnicons (especialmente con [MetroPhoneLauncher](https://github.com/queuejw/MetroPhoneLauncher)).
+This is an icon pack inspired by the original Windows Phone 8 aesthetics, designed to be used with Lawnicons compatible launchers (especially with [MetroPhoneLauncher](https://github.com/queuejw/MetroPhoneLauncher)).
 
-### Características
+### Features
 
-- Íconos en formato SVG (vectorial).
-- Blanco sobre fondo transparente.
-- Ligero y personalizable.
-- Basado en Lawnicons (licencia MIT).
+- Icons in SVG (vector) format.
+- White on transparent background.
+- Lightweight and customizable.
+- Based on Lawnicons (MIT license).
 
-### Créditos
+### Credits
 
-Basado en el proyecto [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) por Lawnchair Launcher Team.
-Licencia MIT. Este repositorio contiene solo los íconos y archivos necesarios para el funcionamiento del pack.
+Based on the project [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) by Lawnchair Launcher Team.
+MIT license. This repository contains only the icons and files necessary for the pack to work.
 
 ---
 
 © 2025 Gerreidae
+
+Translated with DeepL.com (free version)

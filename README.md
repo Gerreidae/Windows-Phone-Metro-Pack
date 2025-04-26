@@ -17,5 +17,3 @@ MIT license. This repository contains only the icons and files necessary for the
 ---
 
 © 2025 Gerreidae
-
-Translated with DeepL.com (free version)
